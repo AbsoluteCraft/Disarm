@@ -3,7 +3,7 @@ Disarm plugin for AbsoluteCraft
 
 ## Documentation
 
-Disarm is a minigame with two teams which start in two separate buildings. Inside each building is three bombs, which will appear as TNT. To disarm the bomb you must break it with shears and bring it back to your spawn zone where you put it in a chest. A timer counts down in this mode and so it is a possibility that both teams can lose. If only one team wins, the game ends and tokens are added to the winning players. If both teams win, they are teleported to a final zone where there is only one bomb. The objective of this mode is to sabotage the opposing teams spawn zone and set it off. PvP is enabled. Each time a person is killed , bomb gets reset.
+Disarm is a minigame with two teams which start in two separate buildings. Inside each building is three bombs, which will appear as TNT. To disarm the bomb you must break it with shears and bring it back to your spawn zone where you put it in a chest. A timer counts down in this mode and so it is a possibility that both teams can lose. If only one team wins, the game ends and tokens are added to the winning players. If both teams win, they are teleported to a final zone where there is only one bomb. The objective of this mode is to sabotage the opposing teams spawn zone and set it off. PvP is enabled. If the person carrying the bomb gets killed, the bomb gets reset.
 
 1. The player types /disarm join
 2. The player is added to the queue and teleported to the lobby
